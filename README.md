@@ -1,7 +1,7 @@
 # VueNuxtDjangoSSRTemplate
 
 ## Project Setup
-For project setup, read frontend/README.md and APIs/CoreAPI/README.md
+For project setup, read client/README.md and api/README.md
 
 client development server: http://localhost:3000/
 
