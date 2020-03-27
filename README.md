@@ -3,9 +3,9 @@
 ## Project Setup
 For project setup, read frontend/README.md and APIs/CoreAPI/README.md
 
-frontend will run on http://localhost:3000/
+client development server: http://localhost:3000/
 
-backend api will run on http://localhost:8000/api/v1/
+Core Api: http://localhost:8000/api/v1/
 
 ## TODO
 ### Frontend
