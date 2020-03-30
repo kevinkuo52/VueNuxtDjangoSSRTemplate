@@ -18,7 +18,3 @@ Set up proper architecture as needed - service layer, repository layer, etc.
 Persist data from Elasticsearch and other db
 
 Unit Tests
-## Preview
-![alt text](./preview1.PNG)
-*after clicking search
-![alt text](./preview2.PNG)
