@@ -1,7 +1,14 @@
 # VueNuxtDjangoSSRTemplate
 
 ## Project Setup
-For project setup, read client/README.md and api/README.md
+
+```
+Source the virtual environment [pipenv shell]
+Install the dependencies [pipenv install]
+Navigate into the backend directory [cd api]
+Start the backend server [python manage.py runserver]
+```
+For frontend setup, read client/README.md
 
 client development server: http://localhost:3000/
 
